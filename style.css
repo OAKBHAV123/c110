@@ -1,0 +1,48 @@
+body
+{
+font-family: 'Oswald', sans-serif;
+background-color: rgb(208, 255, 0);
+}
+
+.header_div
+{
+    background-color:rgb(136, 255, 0);
+    color: rgb(203, 255, 196);
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.Main_div
+{
+    background-color: rgb(43, 226, 195);
+    padding: 10px;
+    margin-top: 15px;
+    border: cyan 4px dashed;
+}
+
+.Main_div label
+{
+    background-color: darkcyan;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 7px 10px rgb(47, 68, 255);
+}
+
+#camera,#result
+{
+border: rgb(181, 0, 252) groove 15px;
+width: 310px;
+height: 300px;
+box-shadow:6px 8px 12px rgb(128, 0, 70) ;
+}
+
+.Main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    border: 2px double;
+    box-shadow: 7px 9px 14px rgb(38, 160, 38);
+}
